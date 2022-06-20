@@ -6,7 +6,6 @@
     </a>
 </h3>
 
-#
 
 <div align="center">
 <a href="https://github.com/RodrigoRodrigoRodrigo">
