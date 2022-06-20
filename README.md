@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rodrigo</h1>
+<h3 align="center">Hi 👋, I'm Rodrigo</h3>
 <h3 align="center"> 
     <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" align="center" title="My LinkedIn" alt="LinkedIn">
